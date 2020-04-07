@@ -8,7 +8,19 @@ https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/
 
 https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix%20A%20-%20Virtual%20Machine%20Experience.html
 https://www.youtube.com/watch?v=BTyKPMfi_JQ
+git clone git@github.com:ptwobrussell/..   
+
 Download and install the latest copy of VirtualBox for your operating system 
    virtualbox --help
+   
 Download and install Vagrant for your operating system 
 C:\HashiCorp\Vagrant\bin>vagrant.exe -v
+vagrant plugin install vagrant-berkshelf
+? https://downloads.chef.io/chefdk
+
+vagrant box add ubuntu-docker https://github.com/jose-lpa/packer-ubuntu_lts/releases/download/v2.0/ubuntu-14.04.box
+
+https://www.vagrantbox.es
+
+cd \_work\git\book
+vagrant up
