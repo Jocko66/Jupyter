@@ -5,3 +5,10 @@ https://colab.research.google.com/notebooks/intro.ipynb
 https://notebooks.azure.com/
 
 https://github.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/
+
+https://rawgit.com/ptwobrussell/Mining-the-Social-Web-2nd-Edition/master/ipynb/html/_Appendix%20A%20-%20Virtual%20Machine%20Experience.html
+https://www.youtube.com/watch?v=BTyKPMfi_JQ
+Download and install the latest copy of VirtualBox for your operating system 
+   virtualbox --help
+Download and install Vagrant for your operating system 
+C:\HashiCorp\Vagrant\bin>vagrant.exe -v
